@@ -5,5 +5,140 @@
             "email": "julia@gmail.com",
             "password": "1234"
         }
+    ],
+    "productes" : [
+        {
+            "id": 1,
+            "nom": "Croquetes",
+            "foto": "croquetes.jpg",
+            "preu": "5 €",
+            "tipus": "entrant"
+        },
+        {
+            "id": 2,
+            "nom": "Amanida",
+            "foto": "amanida.jpg",
+            "preu": "8 €",
+            "tipus": "entrant"
+        },
+        {
+            "id": 3,
+            "nom": "Braves",
+            "foto": "braves.jpg",
+            "preu": "4 €",
+            "tipus": "entrant"
+        },
+        {
+            "id": 4,
+            "nom": "Calamars",
+            "foto": "calamars.jpg",
+            "preu": "6 €",
+            "tipus": "entrant"
+        },
+        {
+            "id": 5,
+            "nom": "Focaccia",
+            "foto": "focaccia.jpg",
+            "preu": "5 €",
+            "tipus": "entrant"
+        },
+        {
+            "id": 6,
+            "nom": "Nachos",
+            "foto": "nachos.jpg",
+            "preu": "7 €",
+            "tipus": "entrant"
+        },
+        {
+            "id": 7,
+            "nom": "Pernil",
+            "foto": "pernil.jpg",
+            "preu": "10 €",
+            "tipus": "entrant"
+        },
+        {
+            "id": 8,
+            "nom": "Cous cous",
+            "foto": "cous-cous.jpg",
+            "preu": "11 €",
+            "tipus": "plat"
+        },
+        {
+            "id": 9,
+            "nom": "Entrepà",
+            "foto": "entrepa.jpg",
+            "preu": "8 €",
+            "tipus": "plat"
+        },
+        {
+            "id": 10,
+            "nom": "Espaguetis",
+            "foto": "espaguetis.jpg",
+            "preu": "12 €",
+            "tipus": "plat"
+        },
+        {
+            "id": 11,
+            "nom": "Paella",
+            "foto": "paella.jpg",
+            "preu": "14 €",
+            "tipus": "plat"
+        },
+        {
+            "id": 12,
+            "nom": "Pollastre",
+            "foto": "pollastre.jpg",
+            "preu": "10 €",
+            "tipus": "plat"
+        },
+        {
+            "id": 13,
+            "nom": "Hamburguesa",
+            "foto": "hamburguesa.jpg",
+            "preu": "10 €",
+            "tipus": "plat"
+        },
+        {
+            "id": 14,
+            "nom": "Brownie",
+            "foto": "brownie.jpg",
+            "preu": "3 €",
+            "tipus": "postre"
+        },
+        {
+            "id": 15,
+            "nom": "Crema catalana",
+            "foto": "catalana.jpg",
+            "preu": "4 €",
+            "tipus": "postre"
+        },
+        {
+            "id": 16,
+            "nom": "Gelat de xocolata",
+            "foto": "xocolata.jpe   g",
+            "preu": "2 €",
+            "tipus": "postre"
+        },
+        {
+            "id": 17,
+            "nom": "Pastís de pastanaga",
+            "foto": "pastanaga.jpg",
+            "preu": "4 €",
+            "tipus": "postre"
+        },
+        {
+            "id": 18,
+            "nom": "Pastís de formatge",
+            "foto": "formatge.jpg",
+            "preu": "4 €",
+            "tipus": "postre"
+        },
+        {
+            "id": 19,
+            "nom": "Sorbet de llimona",
+            "foto": "llimona.jpg",
+            "preu": "3 €",
+            "tipus": "postre"
+        }        
     ]
 }
